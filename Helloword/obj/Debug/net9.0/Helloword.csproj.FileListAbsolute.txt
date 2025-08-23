@@ -12,3 +12,4 @@ C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\refint\Helloword.d
 C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.pdb
 C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.genruntimeconfig.cache
 C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\ref\Helloword.dll
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.sourcelink.json

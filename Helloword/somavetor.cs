@@ -1,6 +1,6 @@
 using System;
 
-class exer1
+class somavetor
 {
     static void Main()
     {
