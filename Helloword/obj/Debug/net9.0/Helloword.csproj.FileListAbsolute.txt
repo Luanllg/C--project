@@ -1,0 +1,14 @@
+C:\Users\luan\Downloads\C#-project\Helloword\bin\Debug\net9.0\Helloword.exe
+C:\Users\luan\Downloads\C#-project\Helloword\bin\Debug\net9.0\Helloword.deps.json
+C:\Users\luan\Downloads\C#-project\Helloword\bin\Debug\net9.0\Helloword.runtimeconfig.json
+C:\Users\luan\Downloads\C#-project\Helloword\bin\Debug\net9.0\Helloword.dll
+C:\Users\luan\Downloads\C#-project\Helloword\bin\Debug\net9.0\Helloword.pdb
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.AssemblyInfoInputs.cache
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.AssemblyInfo.cs
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.csproj.CoreCompileInputs.cache
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.dll
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\refint\Helloword.dll
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.pdb
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\Helloword.genruntimeconfig.cache
+C:\Users\luan\Downloads\C#-project\Helloword\obj\Debug\net9.0\ref\Helloword.dll
