@@ -11,7 +11,7 @@ class ex3
             float[] vetor = new float[n];
            
             for (int i = 0; i < n; i++)
-            {  //tive que usar "System.Globalization.CultureInfo.InvariantCulture" pois não estava funcionadno, adicionei o sistema global e resolveu o problema!
+            {  //tive que usar "System.Globalization.CultureInfo.InvariantCulture" pois não estava funcionando, adicionei o sistema global e resolveu o problema!
                 Console.Write($"Digite o valor {i + 1}: ");
                 vetor[i] = float.Parse(Console.ReadLine() ?? "0", System.Globalization.CultureInfo.InvariantCulture);
             }

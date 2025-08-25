@@ -5,7 +5,7 @@ class ex1
     static void Main()
     {
         Console.WriteLine("Informe o tamanho do vetor:");
-        int myvetor = int.Parse(Console.ReadLine());
+        int myvetor = int.Parse(Console.ReadLine() ?? "0");
         int[] vetor = new int[myvetor];
 
         for (int i = 0; i < myvetor; i++)

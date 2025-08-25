@@ -1,10 +1,12 @@
 using System;
 using Biblioteca;
+
+
 class ex2
 {
     static void Main()
     {
-        
+
         Console.WriteLine("Informe o tamanho do vetor:");
         int n = int.Parse(Console.ReadLine() ?? "0");
 
@@ -19,11 +21,11 @@ class ex2
     static int ContarImpares(int[] vetor)
     {
         int contador = 0;
-       for(int i=0; i<vetor.Length; i++)
-       {
-           if(vetor[i] % 2 != 0)
-               contador++;
-       }
-       return contador;
+        for (int i = 0; i < vetor.Length; i++)
+        {
+            if (vetor[i] % 2 != 0)
+                contador++;
+        }
+        return contador;
     }
-}
+    }
