@@ -1,32 +1,40 @@
 using System;
-
 class string11
 {
     static void Main()
     {
-        Console.WriteLine("Digite a mensagem codificada:");
-        string codificada = Console.ReadLine() ?? "";
-        string decodificada = DecodificarLinguaDoP(codificada);
-        Console.WriteLine("Mensagem decodificada: " + decodificada);
-    }
+        string frase;
 
-    static string DecodificarLinguaDoP(string texto)
+        Console.WriteLine("Digite uma frase codificada em lingua do p:");
+        frase = Console.ReadLine() ?? "";
+
+        string resultado = Decodificar(frase);
+        Console.WriteLine("Frase decodificada:" + resultado);
+
+
+    }
+    static string Decodificar(string codificado)
     {
-        string resultado = "";
-        int i = 0;
-        while (i < texto.Length)
+        char[] frasecodificada = new char[codificado.Length];
+        int s = codificado.Length;
+        int pos = 0;
+        for (int i = 0; i < s; i++)
         {
-            char c = texto[i];
-            resultado += c;
-            if ("AEIOUaeiou".Contains(c) && i + 2 < texto.Length && texto[i + 1] == 'p' && texto[i + 2] == c)
+            if (codificado[i] != 'p')
             {
-                i += 3; 
+                frasecodificada[pos] = codificado[i];
+                pos++;
             }
-            else
+            else if (codificado[pos] == 'p' && i + 1 < s && codificado[i + 1] == 'p')
             {
-                i++;
+                frasecodificada[pos] = 'p';
+                pos++;
+
+             
             }
         }
-        return resultado;
+        return new string(frasecodificada, 0, pos);
     }
 }
+
+  
