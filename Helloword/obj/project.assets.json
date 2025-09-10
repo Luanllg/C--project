@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luan\\Downloads\\C#-project\\Helloword\\Helloword.csproj",
+      "projectUniqueName": "C:\\Users\\luan\\Downloads\\C--project\\Helloword\\Helloword.csproj",
       "projectName": "Helloword",
-      "projectPath": "C:\\Users\\luan\\Downloads\\C#-project\\Helloword\\Helloword.csproj",
+      "projectPath": "C:\\Users\\luan\\Downloads\\C--project\\Helloword\\Helloword.csproj",
       "packagesPath": "C:\\Users\\luan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luan\\Downloads\\C#-project\\Helloword\\obj\\",
+      "outputPath": "C:\\Users\\luan\\Downloads\\C--project\\Helloword\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luan\\AppData\\Roaming\\NuGet\\NuGet.Config"
