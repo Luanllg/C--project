@@ -12,8 +12,8 @@ class ex6
         int[] vetor = new int[tamanho];
 
         Biblioteca.BibliotecaVetor.gerarVetor(vetor);
-       
         Biblioteca.BibliotecaVetor.mostrarVetor(vetor);
+       
 
          // usei para percorrer meu vetor e encontrar sua posição, retornando -1 caso não achar
         int posicao = Array.IndexOf(vetor, numero);

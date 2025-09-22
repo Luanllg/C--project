@@ -1,6 +1,6 @@
 using System;
 using Biblioteca;
-using Microsoft.VisualBasic;
+
 class ex3
 {
     static void Main()
