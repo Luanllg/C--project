@@ -15,11 +15,7 @@ class ex6
        
         Biblioteca.BibliotecaVetor.mostrarVetor(vetor);
 
-        
-
-        
-
-        // usei para percorrer meu vetor e encontrar sua posição, retornando -1 caso não achar
+         // usei para percorrer meu vetor e encontrar sua posição, retornando -1 caso não achar
         int posicao = Array.IndexOf(vetor, numero);
 
         if (posicao >= 0)
